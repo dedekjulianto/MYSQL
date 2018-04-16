@@ -1,0 +1,14 @@
+{
+  "name": "mysql-nodejs",
+  "version": "1.0.0",
+  "description": "learn mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dedek julianto",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
